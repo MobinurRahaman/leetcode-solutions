@@ -1,3 +1,3 @@
-# leetcode-javascript
+# leetcode-problems
 
-Solutions of LeetCode problems in JavaScript
+Solutions of LeetCode problems
